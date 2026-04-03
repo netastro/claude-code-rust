@@ -6,7 +6,9 @@
 <img width="2073" height="321" alt="0265080337a8c7daf3d9fa8b0add8441" src="https://github.com/user-attachments/assets/89311521-321f-4408-86f1-aaefc0ad8e9d" />
 这是中国国内第一个rust语言重构包，考虑到原版TS源代码的封号和后门问题，我已经在重构的过程中剔除掉了部分限制!
 
-现在已经基本完成了大部分的功能构建。感谢兄弟们大力支持！！！具体情况可以关注B站：lorry黄同学   需要源码的万字分析文档的可以看我飞书：https://my.feishu.cn/wiki/GfQGwIen9izVnikrchFcKOtOnTb,让我们一起为中国开源模型迭代添砖加瓦！
+现在已经基本完成了大部分的功能构建。感谢兄弟们大力支持！！！具体情况可以关注B站：lorry黄同学   需要源码的万字分析文档的可以看我飞书：https://my.feishu.cn/wiki/GfQGwIen9izVnikrchFcKOtOnTb,
+
+让我们一起为中国开源模型迭代添砖加瓦！
  
  <img width="992" height="1686" alt="19cae27474ae2bfd242d3965dd85cfdb" src="https://github.com/user-attachments/assets/c2880b38-5876-43f5-a0c7-33684497499c" />
 
