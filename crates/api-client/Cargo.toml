@@ -27,8 +27,6 @@ indexmap.workspace = true
 async-stream.workspace = true
 
 # 特定依赖
-reqwest-retry = "0.4"
-reqwest-middleware = "0.2"
 tokio-tungstenite = "0.21"
 base64 = "0.21"
 hmac = "0.12"

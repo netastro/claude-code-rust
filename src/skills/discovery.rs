@@ -9,7 +9,6 @@ use super::registry::SkillRegistry;
 use super::types::SkillMetadata;
 
 /// 技能发现器
-#[derive(Default)]
 pub struct SkillDiscovery {
     /// 已扫描的路径
     scanned_paths: HashSet<PathBuf>,
