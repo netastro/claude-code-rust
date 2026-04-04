@@ -73,7 +73,7 @@ async fn check_for_updates() -> Result<String> {
     // 简单的版本比较（语义化版本比较需要更复杂的逻辑）
     if latest_version == current_version {
         return Ok(format!(
-            "Claude Code is up to date! (v{})",
+            "Claude Code Rust is up to date! (v{})",
             current_version
         ));
     }
